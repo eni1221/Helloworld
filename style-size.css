@@ -1,0 +1,32 @@
+
+.wrap { width:1500px; min-height:700px; ;}
+
+header { width:1000px; height: 10px;transform:translate(24%); }
+
+.bar{ width: 1000px;transform:translate(23%);  }
+    
+nav a { height:20px; }
+
+footer { height:70px; }
+
+article {width:1300px; height:1500px;  }
+
+.commu img{width:300px; height:400px;}
+
+.banner{width:100px; height:600px;}
+
+#login fieldset span { width: 200px; }
+
+#signup fieldset span { width: 90px; }
+
+.menu { height: 350px; }
+
+.menu ul li { width: 200px; height: 250px; }
+
+.menu ul li img { height: 200px; }
+
+.menu ul li audio, video { width: 330px; }
+
+.menu ul li video { height: 120px; }
+
+.level{width: 500px; height: 500px; }
